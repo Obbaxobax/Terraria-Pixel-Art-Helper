@@ -10,15 +10,16 @@ Utilizing the mod requires two main steps, starting with the pre-processing of t
 
  1. Download the zip file from this repositiory and extract it.
  2. Before running the .exe file, open "exceptions.txt". This file contains the ids for walls and tiles which you may not want to use (Either because they are tedious to get or just straight up impossible). About halfway through the file should be the word "walls", which denotes the beginning of the section containing wall ids. The ids can be found here: [tiles](https://terraria.wiki.gg/wiki/Tile_IDs) and [walls](https://terraria.wiki.gg/wiki/Wall_IDs)
+ ![image](https://photos.app.goo.gl/PGuuiaTpxksN5EqB8)
     * This process may be tedious, and can be skipped if you trust my judgement :)
- 3. After setting up the exceptions, save the file and run the exe. A window should pop up, which asks for a few things. 
+ 4. After setting up the exceptions, save the file and run the exe. A window should pop up, which asks for a few things. 
     * The "Alpha Cutoff" is the alpha value at which the script should
     ignore the pixel (from 0 to 255, recommended is 10).
     * The "Name To Save As" is self-explanatory. The name which you want to save the file as. (It will be saved as a .txt file in the same directory as the exe, so don't name it exceptions, or else...)
     * The "Use Paints" button is a toggle for whether or not you want the script to consider paints. I recommend not using paints if you plan to build it without the use of cheats.
     * The "Select Image File" button will prompt you to select the image which you want to use. Generally, its probably a good idea to use an image that is smaller and does not have as many colours. Larger images will take longer to process and will be much larger in-game.
     * Finally, "Print File" will process the image and output the data to the text file.
- 4. After this, the images are ready to be loaded in-game.
+ 5. After this, the images are ready to be loaded in-game.
  
 ### Loading Files Ingame
 
