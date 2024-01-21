@@ -9,7 +9,7 @@ Utilizing the mod requires two main steps, starting with the pre-processing of t
 ### Pre-processing
 
  1. Download the zip file from this repositiory and extract it.
- 2. Before running the .exe file, open "exceptions.txt". This file contains the ids for walls and tiles which you may not want to use (Either because they are tedious to get or just straight up impossible). About halfway through the file should be the word "walls", which denotes the beginning of the section containing wall ids. The ids can be found here: [tiles](https://terraria.wiki.gg/wiki/Tile_IDs) and [walls](https://terraria.wiki.gg/wiki/Wall_IDs) \n
+ 2. Before running the .exe file, open "exceptions.txt". This file contains the ids for walls and tiles which you may not want to use (Either because they are tedious to get or just straight up impossible). About halfway through the file should be the word "walls", which denotes the beginning of the section containing wall ids. The ids can be found here: [tiles](https://terraria.wiki.gg/wiki/Tile_IDs) and [walls](https://terraria.wiki.gg/wiki/Wall_IDs)
 ![image](https://photos.app.goo.gl/PGuuiaTpxksN5EqB8)
     * This process may be tedious, and can be skipped if you trust my judgement :)
  4. After setting up the exceptions, save the file and run the exe. A window should pop up, which asks for a few things. 
