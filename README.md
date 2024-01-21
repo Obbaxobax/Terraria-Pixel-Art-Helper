@@ -43,3 +43,4 @@ Utilizing the mod requires two main steps, starting with the pre-processing of t
 
 ## What's to come
 In the future, I plan on adding an ingame UI which tells the user the remaining blocks which need to be placed in order to complete the pixel art. Coming maybe never.
+Potentially also an easier means for doing tile exceptions, perhaps incorporated into the python UI somehow.
