@@ -4,7 +4,7 @@
 This is the documentation on how to use Obbax's Pixel Art Helper. This mod allows the user to pre-process an image, and then see an outline for constructing it as pixel art in Terraria. The mod is client side, so their is no need for it to be installed by all players on servers.
 
 ## How To Use It
-Video Tutorial: https://youtu.be/DRQLFm2br94
+Video Tutorial: https://youtu.be/DRQLFm2br94\n
 Utilizing the mod requires two main steps, starting with the pre-processing of the image(s).
 
 ### Pre-processing
