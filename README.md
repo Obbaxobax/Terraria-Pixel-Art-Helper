@@ -32,7 +32,7 @@ Utilizing the mod requires two main steps, starting with the pre-processing of t
 1. Open the mod config via the pause menu. There should be two displayed options.
    * The first field is the directory in which the outputted .txt file is located. 
    <img src="https://lh3.googleusercontent.com/pw/ABLVV87hJqIVKGtq3KjeU6zoo0m6WK-Q5dot-X9LZzEXDIF2IPdG4s-nAKAiXkkmLPx6C9V62pM8eu1w-2jFl4ZpWXp5eWlYcWym6RCMBHLbBVz9S0Qceqil-c6H3SXWoWOL-oRkaVc03Q1WjS5CV-z1Mc7I=w568-h38-s-no-gm?authuser=0"/>
-     * Tab out of Terraria and open the extracted folder in file explorer, and right-click the top bar. Then select, "copy address as text", tab back in, and paste the copied text. After doing this, you can save the config.
+   * Tab out of Terraria and open the extracted folder in file explorer, and right-click the top bar. Then select, "copy address as text", tab back in, and paste the copied text. After doing this, you can save the config.
 <img src="https://lh3.googleusercontent.com/pw/ABLVV87WVWqxUNFpqOyedQGgZ8bQy0LV40UGdgqqgfYpr8_xwt9tH1GFM5HiEuXOWdf1FSHgZSruNiEOLRgEwTkIo7KDNz8SQEV7_qbkpzopNKwsMOuU1Pm743HWbKwascFG2GbDyFYd4sD2fX3IBBEE1tce=w1869-h545-s-no-gm?authuser=0"/>
       * I.E. "C:\Users\[Name]\Downloads\Pixel Art Helper"
    * The second option is optional. It toggles a mode which will only display the pixels of the held block. This is useful for if an image requires placing many of the same block, and allows you to do it all at once.
