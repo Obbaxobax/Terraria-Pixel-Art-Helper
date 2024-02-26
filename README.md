@@ -11,13 +11,12 @@ Utilizing the mod requires two main steps, starting with the pre-processing of t
 ### Pre-processing
 
  1. Download the zip file from this repositiory and extract it.
- 2. Before running the .exe file, open "exceptions.txt". This file contains the ids for walls and tiles which you may not want to use (Either because they are tedious to get or just straight up impossible). About halfway through the file should be the word "walls", which denotes the beginning of the section containing wall ids. The ids can be found here: [tiles](https://terraria.wiki.gg/wiki/Tile_IDs) and [walls](https://terraria.wiki.gg/wiki/Wall_IDs)
- <img src="https://lh3.googleusercontent.com/pw/ABLVV85cLBbHzVmxA1N2OvUWozr6RV9pvab5D3WJ3gs4CrYu81uXqsDjnOn-nUDSYd-NOD7Vc5FUAESC4aELi0X64GnfuUcq0wdv3hI-1IEz4M14D_ebTtrB4zKjOVibdIeBqNMK8WdhUOk03MLdwkia5y18=w757-h727-s-no-gm?authuser=0" width="400" height="400"/>
-    * This process may be tedious, and can be skipped if you trust my judgement :)
+ 2. Before running the .exe file, open "exceptions.txt". This file contains the ids for walls and tiles which you may not want to use (Either because they are tedious to get or just straight up impossible). About halfway through the file should be the word "walls", which denotes the beginning of the section containing wall ids. The ids can be found here: [tiles](https://terraria.wiki.gg/wiki/Tile_IDs) and [walls](https://terraria.wiki.gg/wiki/Wall_IDs) <img src="https://lh3.googleusercontent.com/pw/ABLVV85cLBbHzVmxA1N2OvUWozr6RV9pvab5D3WJ3gs4CrYu81uXqsDjnOn-nUDSYd-NOD7Vc5FUAESC4aELi0X64GnfuUcq0wdv3hI-1IEz4M14D_ebTtrB4zKjOVibdIeBqNMK8WdhUOk03MLdwkia5y18=w757-h727-s-no-gm?authuser=0" width="400" height="400"/>
+    - This process may be tedious, and can be skipped if you trust my judgement :)
  3. After setting up the exceptions, save the file and run the exe. A window should pop up, which asks for a few things. 
-    * The "Alpha Cutoff" is the alpha value at which the script should
+    - The "Alpha Cutoff" is the alpha value at which the script should
     ignore the pixel (from 0 to 255, recommended is 10).
-    <img src="https://lh3.googleusercontent.com/pw/ABLVV842lreLHo0MW7u8ru78Tu9cI8WmqWxX0pxm5QoUmoFJ3WN8mRhW5zadqNL6LczLjiFJk6ubh268dalr2trpb8CcXRaRTCgCDk9timGlEWfHzJc1Cd5uWWaCepSFD4zfls2whW_FOylLcNjAcqdPzrQm=w445-h60-s-no-gm?authuser=0"/>
+    - <img src="https://lh3.googleusercontent.com/pw/ABLVV842lreLHo0MW7u8ru78Tu9cI8WmqWxX0pxm5QoUmoFJ3WN8mRhW5zadqNL6LczLjiFJk6ubh268dalr2trpb8CcXRaRTCgCDk9timGlEWfHzJc1Cd5uWWaCepSFD4zfls2whW_FOylLcNjAcqdPzrQm=w445-h60-s-no-gm?authuser=0"/>
     * The "Name To Save As" is self-explanatory. The name which you want to save the file as. (It will be saved as a .txt file in the same directory as the exe, so don't name it exceptions, or else...)
     <img src="https://lh3.googleusercontent.com/pw/ABLVV85Gj3SEuYQGvXhwCIF_tKCStvHwOid1D0epSNSiXYq1enVqwHMZlzbMNF8xdCigjIJWTD8Fnc33rEyjPho01eai1ZH3hzUO07oKJKZ_vw1Uab3J0zFMZAg7afgQB7bFiytiqj4CW5aoV_tCvBvzsRf3=w444-h57-s-no-gm?authuser=0"/>
     * The "Use Paints" button is a toggle for whether or not you want the script to consider paints. I recommend not using paints if you plan to build it without the use of cheats.
